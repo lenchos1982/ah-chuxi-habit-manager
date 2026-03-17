@@ -1,0 +1,17 @@
+{
+  "storage": {
+    "path": "./habits"
+  },
+  "detector": {
+    "minConfidence": 0.7,
+    "enableFuzzyMatch": true
+  },
+  "aggregation": {
+    "weeklyThreshold": 3,
+    "monthlyMinFrequency": 2
+  },
+  "loader": {
+    "enabled": true,
+    "injectKey": "## 用户习惯摘要"
+  }
+}
