@@ -1,3 +1,10 @@
+# ⚠️ 项目状态：未实现
+
+> **核心功能因 OpenClaw 架构限制无法落地，当前代码仅供参考。**
+> 详见：[Issue #1 - 【未实现】习惯自动检测机制](https://github.com/lenchos1982/ah-chuxi-habit-manager/issues/1)
+
+---
+
 # Habit Manager - 通用习惯管理器插件
 
 > 记录和传承用户习惯，实现换模型后无缝衔接
